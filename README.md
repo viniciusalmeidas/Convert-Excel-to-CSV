@@ -19,13 +19,13 @@
     .
     ├── 1 LICENSE
     ├── 2 .README.md
-    ├── 5 excel_csv.py
+    ├── 3 excel_csv.py
 
 1.  **`LICENSE`**: Este projeto está sobre a licensa GNU Affero General Public License v3.0.
   
 2. **`README.md`**: **ESTAMOS AQUI** Um arquivo de texto contendo informações de referência úteis sobre o seu projeto.
 
-3. **`resultado-pism.py`**: Aplicação em si, basta seguir os passos e instalar as dependências. Este diretório contém todo o código relacionado ao que você verá no front-end.
+3. **`excel_csv.py`**: Aplicação em si, basta seguir os passos e instalar as dependências. Este diretório contém todo o código relacionado ao que você verá no front-end.
 
 
 ## 🚀 Quick start

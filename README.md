@@ -36,21 +36,10 @@
 1.  **Instale as dependencias**
     Instale as dependencias.
     
-### instalar o Numpy, Selenium 
+### instalar o pandas, os 
  `python version 3.10-64bits`
- `pip install numpy`
- `pip install selenium`
-
-### baixar o WebDriver Chrome atualizado
-
-Cheque sua versão do Chrome e baixe o Chromedriver atualizado abaixo.
-https://chromedriver.chromium.org/downloads
-
-[![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://help.agenciadatecnologia.com.br/como-atualizar-o-chromedriver-de-acordo-com-a-versao-mais-recente-do-google-chrome/)
-
-[Como Atualizar o ChromeDriver] (https://help.agenciadatecnologia.com.br/como-atualizar-o-chromedriver-de-acordo-com-a-versao-mais-recente-do-google-chrome/)
-
-
+ `pip install pandas`
+ `pip install os`
 
 <hr> 
 

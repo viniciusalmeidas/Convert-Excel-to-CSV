@@ -7,12 +7,6 @@
   # Convert Excel(XLS) to CSV
   Convert Free Excel(.xls only) to csv files 
 </h2>
-<p align="center">
-  <a href="http://www4.vestibular.ufjf.br/2021/resultadofinalpism3/">
-    <img src="https://github.com/viniciusalmeidas/Selenium-PISM-APROVADOS/blob/main/PISM-UFJF.png" width="420" height="300"/>
-  </a>
-</p>
-
 <hr>
 
 <h2 align="center">

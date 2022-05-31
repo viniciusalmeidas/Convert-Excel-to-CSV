@@ -28,15 +28,10 @@
     ├── 5 excel_csv.py
 
 1.  **`LICENSE`**: Este projeto está sobre a licensa GNU Affero General Public License v3.0.
-
-2.  **`PISM-UFJF.png`**: imagem do site do PISM 2021 (Vestibular Seriado da UFJF)
   
-3. **`README.md`**: **ESTAMOS AQUI** Um arquivo de texto contendo informações de referência úteis sobre o seu projeto.
+2. **`README.md`**: **ESTAMOS AQUI** Um arquivo de texto contendo informações de referência úteis sobre o seu projeto.
 
-4. **`chromedriver.exe`**: Versão do Chromedriver 90.0.4430.72 (Versão oficial) 64 bits necessário para interagir com Seleninium. Atualize de acordo com a versão do seu navegador.
-
-5. **`resultado-pism.py`**: Aplicação em si, basta seguir os passos e instalar as dependências. Este diretório contém todo o código relacionado ao que você verá no front-end.
-
+3. **`resultado-pism.py`**: Aplicação em si, basta seguir os passos e instalar as dependências. Este diretório contém todo o código relacionado ao que você verá no front-end.
 
 
 ## 🚀 Quick start

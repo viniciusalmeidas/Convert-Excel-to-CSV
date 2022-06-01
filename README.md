@@ -19,24 +19,27 @@
     .
     ├── 1 LICENSE
     ├── 2 .README.md
-    ├── 3 excel_csv.py
+    ├── 3 excel_csv_desktop.py
 
 1.  **`LICENSE`**: Este projeto está sobre a licensa GNU Affero General Public License v3.0.
   
 2. **`README.md`**: **ESTAMOS AQUI** Um arquivo de texto contendo informações de referência úteis sobre o seu projeto.
 
-3. **`excel_csv.py`**: Aplicação em si, basta seguir os passos e instalar as dependências. Este diretório contém todo o código relacionado ao que você verá no front-end.
+3. **`excel_csv_desktop.py`**: Aplicação em si, basta seguir os passos e instalar as dependências. Este diretório contém todo o código relacionado ao que você verá no front-end.
 
 
 ## 🚀 Quick start
 
 0. **Clone o repositório**
-    Pode usar o GitHub Desktop.
+    Pode usar o GitHub Desktop para clonar.
     
-1.  **Instale as dependencias**
+1.  **Instale as dependencias ou baixe o programa .exe**
     Instale as dependencias.
     
-### instalar o pandas, os 
+### instalar o pandas, os ou Baixar o executável
+  Distribuição: Se você preferir pode baixar somente o .exe e executar sem o ter que instalar o Python
+
+  Se prefeir rodar no seu editor de código, instale as dependências
  `python version 3.10-64bits`
  `pip install pandas`
  `pip install os`

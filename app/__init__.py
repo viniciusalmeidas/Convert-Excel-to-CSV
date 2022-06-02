@@ -5,5 +5,6 @@ def create_app():
 
     @app.route('/')
     def index():
-        return "Olá Vinicius"
+        return 'Olá Vinicius'
+
     return app

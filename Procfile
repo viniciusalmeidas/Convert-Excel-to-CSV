@@ -1,1 +1,1 @@
-web: gunicorn -b :$PORT excel_csv_desktop:app
+web: gunicorn "app:create_app"
